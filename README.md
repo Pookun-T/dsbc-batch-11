@@ -3,7 +3,7 @@ My data science and analytics projects
 
 ## My personal projects
 
-(updated on 1 Jun 2025)
+(updated on 1 Jun 2025 - GitHub 101)
 
 1. SQL supermarket analysis
 2. SQL churn analysis
